@@ -1,0 +1,30 @@
+Project: Analyzing Student Grades
+
+
+Objective:
+The objective of this project is to analyze student grades data to gain insights into their performance and identify any patterns or trends.
+
+Dataset:
+You will be provided with a CSV file containing student grades data. The dataset includes the following columns:
+
+
+Student ID
+Name
+Math Grade
+Science Grade
+English Grade
+History Grade
+
+
+Tasks:
+Load the dataset into a Pandas DataFrame.
+Display the first few rows of the DataFrame to understand its structure.
+Calculate and display the following statistics for each subject:
+Mean (average) grade
+Median grade
+Maximum grade
+Minimum grade
+Visualize the distribution of grades for each subject using histograms.
+Calculate the overall average grade for each student (average of all subjects) and add it as a new column to the DataFrame.
+Identify the top 3 performing students based on their overall average grade.
+Plot a bar chart to visualize the overall average grades of the top 3 performing students.
